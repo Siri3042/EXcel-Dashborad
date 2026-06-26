@@ -13,7 +13,7 @@ Developed an interactive Call Centre Dashboard in Excel using Pivot Tables, Pivo
 - Customer satisfaction analysis
 ## Dataset used
 - <a href="https://github.com/Siri3042/EXcel-Dashborad">Dataset</a>
- ## Questions
+## Questions
 - How many calls were handled?
 - What is the total revenue generated from customer interactions?
 - Which representatives perform the best?
@@ -21,4 +21,14 @@ Developed an interactive Call Centre Dashboard in Excel using Pivot Tables, Pivo
 - How are calls distributed over time?
 - What is the average call duration?
 - How many customers gave a 5-star rating?
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+- KPI Cards
+- Excel Formulas
+## Dashborad Picture
+
 
