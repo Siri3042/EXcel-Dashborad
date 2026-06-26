@@ -1,16 +1,14 @@
 ## EXcel-Dashborad
 Developed an interactive Call Centre Dashboard in Excel using Pivot Tables, Pivot Charts, Slicers, and KPI cards. It helps track call performance, customer satisfaction, sales, and employee productivity by analyzing over 1,000+ customer call records from 2023.
-## Features
-- Total Call Volume KPI
-- Total Purchase Amount
-- Total Call Duration
-- Average Customer Satisfaction Rating
-- Five-Star Call Tracking
-- Interactive Pivot Charts
-- Dynamic Slicers for filtering data
-- Time-based analysis
-- Representative performance monitoring
-- Customer satisfaction analysis
+## Key Insights
+- Analyzed 1,000+ customer call records to uncover call centre performance trends.
+- Tracked customer satisfaction ratings to evaluate service quality.
+- Monitored representative performance based on call handling and customer feedback.
+- Analyzed purchase amounts to measure sales generated through customer interactions.
+- Evaluated call duration to identify operational efficiency.
+- Used interactive slicers to filter data by different dimensions for dynamic reporting.
+- Built KPI cards and visualizations to provide quick, actionable business insights.
+- Designed a user-friendly dashboard to support data-driven decision-making.
 ## Dataset used
 - <a href="https://github.com/Siri3042/EXcel-Dashborad">Dataset</a>
 ## Questions
@@ -30,5 +28,8 @@ Developed an interactive Call Centre Dashboard in Excel using Pivot Tables, Pivo
 - KPI Cards
 - Excel Formulas
 ## Dashborad Picture
+<a href="<img width="960" height="540" alt="Dashboard Image" src="https://github.com/user-attachments/assets/39672fb5-b033-4379-93f3-062595c3abb4" > </a>
+
+"
 
 
